@@ -1,0 +1,13 @@
+*****Info*****
+Navigate menus with the arrow keys.
+selection with RETURN or SPACE keys.
+
+Random Run: Cells are chosen randomly inside a square in the middle of the board.
+            Relevant setup: Area size, Spawn chance
+
+Select Run: Select cells with the mouse, RETURN or SPACE to start.
+
+
+
+*****Credits*****
+Roee Dar 
