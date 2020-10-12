@@ -6,5 +6,6 @@ Install the game via 'The Game Of Life installer', no need for any other file.
 
 # Explore the code
 All the files beside the installer are needed to run the game with an IDE, in addition to the following
-packages: pygame, openpyxl
+packages: pygame, openpyxl.
+
 You can get those with pip.
