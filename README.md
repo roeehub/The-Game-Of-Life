@@ -3,7 +3,7 @@ Implementation  of Conway’s game of life
 
 # Playing the game
 Install the game via 'The Game Of Life installer', no need for any other file.
-Compatible with windows 10, possibly some linux disterbutions as well.
+Compatible with windows 10, possibly some linux distributions as well.
 # Explore the code
 All the files beside the installer are needed to run the game with an IDE, in addition to the following
 packages: pygame 2.0.0.dev8, openpyxl 3.0.5.
